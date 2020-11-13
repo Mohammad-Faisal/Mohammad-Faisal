@@ -10,7 +10,9 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="medium" src=https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" />
-
+                                                                                                                                                   
+hr
+                                                                                                                                                 
 ## Mobile Development
 <img align="left" alt="medium" src="	https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
