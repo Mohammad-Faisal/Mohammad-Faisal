@@ -1,4 +1,5 @@
-### Hello. I am faisal, A fullstack software engineer from bangladesh 👋
+### Hi there. 
+I am a fullstack software engineer from bangladesh 👋
 
 - 🔭 Currently working on multiple frontend and backend project using react and nodejs
 - 🌱 Currently learning design patterns in depth
@@ -11,6 +12,9 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
+## Connect with me
+
+[<img align="left" alt="medium" src="hhttps://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mohammadfaisal1011@gmail.com)
 
 
 <!--
