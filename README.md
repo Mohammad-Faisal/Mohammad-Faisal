@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello. I am faisal. I am a fullstack software engineer 👋
 
-	
+- 🔭 Currently working on multiple frontend and backend project using react and nodejs
+- 🌱 Currently learning design patterns in depth
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
