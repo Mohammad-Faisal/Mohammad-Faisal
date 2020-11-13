@@ -12,9 +12,10 @@ I am a fullstack software engineer from bangladesh 👋
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
-## Connect with me
+- 🔭 Currently working on multiple frontend and backend project using react and nodejs
 
-[<img align="left" alt="medium" src="hhttps://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mohammadfaisal1011@gmail.com)
+## Connect with me
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
 
 
 <!--
