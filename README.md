@@ -31,11 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Costly Mistakes: Why We Had to Abandoned Firebase](https://medium.com/javascript-in-plain-english/costly-mistakes-why-we-had-to-abandoned-firebase-b89930c10d92?source=rss-fe04a352a811------2)
-- [How I Reduced Docker Image Size from 1.43 GB to 22.4 MB](https://medium.com/javascript-in-plain-english/how-i-reduced-docker-image-size-from-1-43-gb-to-22-4-mb-84058d70574b?source=rss-fe04a352a811------2)
-- [Start Your Journey with Next.js](https://medium.com/javascript-in-plain-english/start-your-journey-with-next-js-958705cfc299?source=rss-fe04a352a811------2)
-- [Handle Push Notification in React in 5 Easy Steps](https://medium.com/dev-genius/handle-push-notification-in-react-in-5-easy-steps-489b44da7ed8?source=rss-fe04a352a811------2)
-- [Make your S3 hosted React App Secure](https://medium.com/@56faisal/make-your-s3-hosted-react-app-secure-dd90ea70d0ff?source=rss-fe04a352a811------2)
+- [Implement multi-language Support in React](https://medium.com/javascript-in-plain-english/implement-multi-language-support-in-react-9854c52ddb55?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
