@@ -31,6 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Delete Docker Images Like A Pro](https://medium.com/javascript-in-plain-english/delete-docker-images-like-a-pro-a8fece854ec8?source=rss-fe04a352a811------2)
 - [15 Rules For Writing Clean JavaScript](https://medium.com/javascript-in-plain-english/15-rules-for-writing-clean-javascript-8e2b2b426515?source=rss-fe04a352a811------2)
 - [Implement multi-language Support in React](https://medium.com/javascript-in-plain-english/implement-multi-language-support-in-react-9854c52ddb55?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
