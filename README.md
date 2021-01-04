@@ -32,7 +32,6 @@ I am a fullstack software engineer from bangladesh
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [What is Redis and How to Use it with Nest.JS](https://medium.com/javascript-in-plain-english/what-is-redis-and-how-to-use-it-with-nest-js-3cd1de0fe13b?source=rss-fe04a352a811------2)
-- [Delete Docker Images Like A Pro](https://medium.com/javascript-in-plain-english/delete-docker-images-like-a-pro-a8fece854ec8?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
