@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Redis and How to Use it with Nest.JS](https://medium.com/javascript-in-plain-english/what-is-redis-and-how-to-use-it-with-nest-js-3cd1de0fe13b?source=rss-fe04a352a811------2)
+- [Document Your React Applications The Right Way](https://medium.com/javascript-in-plain-english/document-your-react-applications-the-right-way-f648053c3a70?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
