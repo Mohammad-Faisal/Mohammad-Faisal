@@ -31,10 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using sudo Is Bad but What Can You Do About It?](https://levelup.gitconnected.com/using-sudo-is-bad-but-what-can-you-do-about-it-a5bce9080e6c?source=rss-fe04a352a811------2)
-- [Advanced React Optimization Techniques](https://medium.com/javascript-in-plain-english/advanced-react-optimization-techniques-66614412efdc?source=rss-fe04a352a811------2)
-- [10 Lessons That Helped Me Grow As A Developer](https://medium.com/javascript-in-plain-english/10-lessons-that-helped-me-grow-as-a-developer-d71451bafe3b?source=rss-fe04a352a811------2)
-- [First 5 Steps of Object-Oriented Design](https://levelup.gitconnected.com/first-5-steps-of-object-oriented-design-232ad3a95429?source=rss-fe04a352a811------2)
+- [How to Setup and Add Google Analytics to your React App](https://medium.com/javascript-in-plain-english/how-to-setup-and-add-google-analytics-to-your-react-app-fd361f47ac7b?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
