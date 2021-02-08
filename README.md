@@ -31,9 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [20 Essential Parts Of Any Large Scale React App](https://medium.com/javascript-in-plain-english/20-essential-parts-of-any-large-scale-react-app-ee4bd35436a0?source=rss-fe04a352a811------2)
-- [Handle Multiple Environments in React](https://medium.com/javascript-in-plain-english/handle-multiple-environments-in-react-d3d05b2c4248?source=rss-fe04a352a811------2)
-- [Continuous Deployment Pipeline for React Apps](https://medium.com/javascript-in-plain-english/continuous-deployment-pipeline-for-react-apps-886f887996f8?source=rss-fe04a352a811------2)
+- [How I Learn New Technology](https://medium.com/@56faisal/how-i-learn-new-technology-b7839304df2e?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
