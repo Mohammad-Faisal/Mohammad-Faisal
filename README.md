@@ -31,9 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [15 Rules for Writing Clean Comments](https://medium.com/better-programming/15-rules-for-writing-clean-comments-18390394941f?source=rss-fe04a352a811------2)
-- [Build a Full Stack GraphQL Application with React + Express](https://medium.com/javascript-in-plain-english/build-a-full-stack-graphql-application-with-react-express-6a3d00b05629?source=rss-fe04a352a811------2)
-- [How I Learn New Technology](https://medium.com/@56faisal/how-i-learn-new-technology-b7839304df2e?source=rss-fe04a352a811------2)
+- [Download HTML as a PDF in React](https://js.plainenglish.io/download-html-as-a-pdf-in-react-fc86114c9095?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
