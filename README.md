@@ -31,6 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup AWS Authentication for React Applications](https://javascript.plainenglish.io/how-to-setup-aws-authentication-for-react-applications-8bbf03bb722?source=rss-fe04a352a811------2)
 - [Everything You Need to Get Started With Testing in React](https://betterprogramming.pub/everything-you-need-to-get-started-with-testing-in-react-e16819b0eba7?source=rss-fe04a352a811------2)
 - [5 Ways to Improve Visibility as Software Engineer](https://levelup.gitconnected.com/5-ways-to-improve-visibility-as-software-engineer-c54cc2d8221f?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
