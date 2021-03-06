@@ -32,8 +32,6 @@ I am a fullstack software engineer from bangladesh
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The 7 Traits of a Rock Star React Developer](https://betterprogramming.pub/the-7-traits-of-a-rock-star-react-developer-747fbb001c05?source=rss-fe04a352a811------2)
-- [How to Setup AWS Authentication for React Applications](https://javascript.plainenglish.io/how-to-setup-aws-authentication-for-react-applications-8bbf03bb722?source=rss-fe04a352a811------2)
-- [Everything You Need to Get Started With Testing in React](https://betterprogramming.pub/everything-you-need-to-get-started-with-testing-in-react-e16819b0eba7?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
