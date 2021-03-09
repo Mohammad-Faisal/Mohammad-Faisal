@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 7 Traits of a Rock Star React Developer](https://betterprogramming.pub/the-7-traits-of-a-rock-star-react-developer-747fbb001c05?source=rss-fe04a352a811------2)
+- [11 Ways to Improve Your Technical Resume](https://javascript.plainenglish.io/11-ways-to-improve-your-technical-resume-3379161c9160?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
