@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Access Private S3 Buckets Securely](https://javascript.plainenglish.io/how-to-access-private-s3-buckets-securely-87778efd93bd?source=rss-fe04a352a811------2)
+- [Starting Career With Android was a Bad Idea](https://medium.com/dev-genius/starting-career-with-android-was-a-bad-idea-37877472a796?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
