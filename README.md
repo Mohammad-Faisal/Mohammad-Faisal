@@ -31,6 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto-generated Admin Panels for Node.js with AdminBro](https://javascript.plainenglish.io/auto-generated-admin-panels-for-node-js-with-adminbro-3609675550ca?source=rss-fe04a352a811------2)
 - [Starting Career With Android was a Bad Idea](https://medium.com/dev-genius/starting-career-with-android-was-a-bad-idea-37877472a796?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
