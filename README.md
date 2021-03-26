@@ -31,9 +31,9 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Improve Rendering Performance in a 1,000-Item React List](https://betterprogramming.pub/how-to-improve-rendering-performance-in-a-1-000-item-react-list-85be129b8c0d?source=rss-fe04a352a811------2)
 - [Handle Push Notifications in React](https://javascript.plainenglish.io/handle-push-notifications-in-react-eba1dce496db?source=rss-fe04a352a811------2)
 - [Auto-generated Admin Panels for Node.js with AdminBro](https://javascript.plainenglish.io/auto-generated-admin-panels-for-node-js-with-adminbro-3609675550ca?source=rss-fe04a352a811------2)
-- [Starting Career With Android was a Bad Idea](https://medium.com/dev-genius/starting-career-with-android-was-a-bad-idea-37877472a796?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
