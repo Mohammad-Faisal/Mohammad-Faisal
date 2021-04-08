@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Applying the Open-Closed Principle To Write Clean React Components](https://betterprogramming.pub/applying-the-open-closed-principle-to-write-clean-react-components-4e4514963e40?source=rss-fe04a352a811------2)
+- [How to Use React Hook Form with TypeScript](https://javascript.plainenglish.io/how-to-use-react-hook-form-with-typescript-2cf597c0c45f?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
