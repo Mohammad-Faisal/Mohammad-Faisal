@@ -31,6 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Boost the SEO of Your React App](https://betterprogramming.pub/how-to-boost-the-seo-of-your-react-app-b1c36d272ddf?source=rss-fe04a352a811------2)
 - [How to Use React Hook Form with TypeScript](https://javascript.plainenglish.io/how-to-use-react-hook-form-with-typescript-2cf597c0c45f?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
