@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Boost the SEO of Your React App](https://betterprogramming.pub/how-to-boost-the-seo-of-your-react-app-b1c36d272ddf?source=rss-fe04a352a811------2)
+- [22 Best Practices to Take Your API Design Skills to the Next Level](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
