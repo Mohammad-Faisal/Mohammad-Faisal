@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [22 Best Practices to Take Your API Design Skills to the Next Level](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9?source=rss-fe04a352a811------2)
+- [Applying the Liskov Substitution Principle in React](https://betterprogramming.pub/applying-the-liskov-substitution-principle-in-react-3a0614a42a08?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
