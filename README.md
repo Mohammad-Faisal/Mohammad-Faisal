@@ -31,8 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 Webpack Concepts for Advanced React Developers](https://betterprogramming.pub/6-webpack-concepts-for-advanced-react-developers-d016da2cad52?source=rss-fe04a352a811------2)
-- [Applying the Liskov Substitution Principle in React](https://betterprogramming.pub/applying-the-liskov-substitution-principle-in-react-3a0614a42a08?source=rss-fe04a352a811------2)
+- [21 Best Practices for a Clean React Project](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
