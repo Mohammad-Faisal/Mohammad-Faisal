@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [21 Best Practices for a Clean React Project](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb?source=rss-fe04a352a811------2)
+- [How to Access Firebase From AWS Lambda](https://levelup.gitconnected.com/how-to-access-firebase-from-aws-lambda-f7f494dd435a?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
