@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Access Firebase From AWS Lambda](https://levelup.gitconnected.com/how-to-access-firebase-from-aws-lambda-f7f494dd435a?source=rss-fe04a352a811------2)
+- [How to Apply Interface Segregation Principle in ReactJS](https://betterprogramming.pub/how-to-apply-interface-segregation-principle-in-reactjs-fadf77113c5d?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
