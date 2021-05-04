@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Apply Interface Segregation Principle in ReactJS](https://betterprogramming.pub/how-to-apply-interface-segregation-principle-in-reactjs-fadf77113c5d?source=rss-fe04a352a811------2)
+- [Complete Guideline to Creating a Modern React App With TypeScript From Scratch](https://betterprogramming.pub/complete-guideline-to-creating-a-modern-react-app-with-typescript-from-scratch-cebbb5817d8?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
