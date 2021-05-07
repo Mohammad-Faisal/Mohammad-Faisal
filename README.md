@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guideline to Creating a Modern React App With TypeScript From Scratch](https://betterprogramming.pub/complete-guideline-to-creating-a-modern-react-app-with-typescript-from-scratch-cebbb5817d8?source=rss-fe04a352a811------2)
+- [Apply the Dependency Inversion Principle in React](https://betterprogramming.pub/apply-the-dependency-inversion-principle-in-react-c20a0afc3d64?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
