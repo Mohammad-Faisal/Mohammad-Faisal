@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apply the Dependency Inversion Principle in React](https://betterprogramming.pub/apply-the-dependency-inversion-principle-in-react-c20a0afc3d64?source=rss-fe04a352a811------2)
+- [21 Best Practices for Handling Passwords in Web Applications](https://betterprogramming.pub/21-best-practices-for-handling-passwords-in-web-applications-7b2d7a66378f?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
