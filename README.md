@@ -31,7 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [21 Best Practices for Handling Passwords in Web Applications](https://betterprogramming.pub/21-best-practices-for-handling-passwords-in-web-applications-7b2d7a66378f?source=rss-fe04a352a811------2)
+- [How To Use AWS DynamoDB in React](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
