@@ -31,7 +31,8 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Use AWS DynamoDB in React](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e?source=rss-fe04a352a811------2)
+- [Top 7 Libraries for Blazingly Fast ReactJS Applications](https://betterprogramming.pub/top-7-libraries-for-blazingly-fast-reactjs-applications-c0069e87c8b7?source=rss-fe04a352a811------2)
+- [Identify Performance Issues of React Components](https://javascript.plainenglish.io/why-did-your-react-component-render-a8c95e8310e6?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
