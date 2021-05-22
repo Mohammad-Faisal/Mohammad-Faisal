@@ -31,8 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Libraries for Blazingly Fast ReactJS Applications](https://betterprogramming.pub/top-7-libraries-for-blazingly-fast-reactjs-applications-c0069e87c8b7?source=rss-fe04a352a811------2)
-- [Identify Performance Issues of React Components](https://javascript.plainenglish.io/why-did-your-react-component-render-a8c95e8310e6?source=rss-fe04a352a811------2)
+- [Why I Went Viral](https://56faisal.medium.com/why-i-went-viral-a0b5f7f0cd3b?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
