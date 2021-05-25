@@ -31,6 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3  AWS Services To Learn as a React Developer](https://betterprogramming.pub/3-aws-services-to-learn-as-a-react-developer-7592e487c3ba?source=rss-fe04a352a811------2)
 - [Why I Went Viral](https://56faisal.medium.com/why-i-went-viral-a0b5f7f0cd3b?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
