@@ -31,8 +31,7 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Easy Ways to Solve SEO Problems in React Applications](https://javascript.plainenglish.io/3-easy-ways-to-solve-seo-problems-in-react-applications-d3d7873dc494?source=rss-fe04a352a811------2)
-- [18 Best Practices for Designing an Enterprise Database System](https://javascript.plainenglish.io/18-best-practices-for-designing-an-enterprise-database-system-c2138a183a33?source=rss-fe04a352a811------2)
+- [My Frustrations With the Context API in React](https://betterprogramming.pub/my-frustrations-with-the-context-api-in-react-26189fcd5371?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
