@@ -31,11 +31,11 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Handle One-to-Many Relationships in NoSQL Databases](https://betterprogramming.pub/how-to-handle-one-to-many-relationships-in-nosql-databases-23627d404cb0?source=rss-fe04a352a811------2)
+- [Blazing Fast and Cost-Effective Query in AWS DynamoDB](https://aws.plainenglish.io/blazing-fast-and-cost-effective-query-in-aws-dynamodb-18b49009e0f1?source=rss-fe04a352a811------2)
 - [How to Create a Kick-Ass GitHub Profile in 5 Minutes](https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b?source=rss-fe04a352a811------2)
 - [Think Twice Before Joining Large Companies as a Junior Engineer](https://levelup.gitconnected.com/think-twice-before-joining-large-companies-as-a-junior-engineer-a1179c967642?source=rss-fe04a352a811------2)
 - [Developing a Powerful Alert System Using React Context API](https://javascript.plainenglish.io/developing-a-powerful-alert-system-using-react-context-api-df68c357db68?source=rss-fe04a352a811------2)
-- [My Frustrations With the Context API in React](https://betterprogramming.pub/my-frustrations-with-the-context-api-in-react-26189fcd5371?source=rss-fe04a352a811------2)
-- [3 Easy Ways to Solve SEO Problems in React Applications](https://javascript.plainenglish.io/3-easy-ways-to-solve-seo-problems-in-react-applications-d3d7873dc494?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
