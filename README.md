@@ -29,11 +29,11 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Design a Clean Database](https://levelup.gitconnected.com/how-to-design-a-clean-database-2c7158114e2f?source=rss-fe04a352a811------2)
 - [We Almost  Lost Our Production Database](https://javascript.plainenglish.io/we-almost-lost-our-production-database-268b90aac282?source=rss-fe04a352a811------2)
 - [16 Conceptual React Questions to Stand Out in Your Next Interview](https://javascript.plainenglish.io/16-conceptual-react-questions-to-stand-out-in-your-next-interview-4b0e9c7f8186?source=rss-fe04a352a811------2)
 - [The Greatest React Developer I Ever Met](https://javascript.plainenglish.io/the-greatest-react-developer-i-ever-met-1e58df22bb71?source=rss-fe04a352a811------2)
 - [45 NPM Packages to Solve 16 React Problems](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224?source=rss-fe04a352a811------2)
-- [How To Choose Data Fetching Strategies In NextJS](https://betterprogramming.pub/how-to-choose-data-fetching-strategies-in-nextjs-dadabf45e562?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
