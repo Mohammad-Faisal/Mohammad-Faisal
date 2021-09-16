@@ -29,11 +29,11 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Query vs SWR](https://javascript.plainenglish.io/react-query-vs-swr-36743c14ba7e?source=rss-fe04a352a811------2)
 - [How to Reduce HTTP Calls From 15 Lines to 2 Lines Using React SWR](https://javascript.plainenglish.io/how-to-reduce-http-calls-from-15-lines-to-2-lines-using-react-swr-50f59f086ed2?source=rss-fe04a352a811------2)
 - [How to Design a Clean Database](https://levelup.gitconnected.com/how-to-design-a-clean-database-2c7158114e2f?source=rss-fe04a352a811------2)
 - [We Almost  Lost Our Production Database](https://javascript.plainenglish.io/we-almost-lost-our-production-database-268b90aac282?source=rss-fe04a352a811------2)
 - [16 Conceptual React Questions to Stand Out in Your Next Interview](https://javascript.plainenglish.io/16-conceptual-react-questions-to-stand-out-in-your-next-interview-4b0e9c7f8186?source=rss-fe04a352a811------2)
-- [The Greatest React Developer I Ever Met](https://javascript.plainenglish.io/the-greatest-react-developer-i-ever-met-1e58df22bb71?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
