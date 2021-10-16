@@ -29,11 +29,11 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand Static Site Generation with  Next.js](https://javascript.plainenglish.io/understand-static-site-generation-with-next-js-22e86efda38c?source=rss-fe04a352a811------2)
 - [How to Handle Different Environments in a Next.js Application](https://javascript.plainenglish.io/how-to-handle-different-environments-in-a-next-js-application-8dc4aef6ad9b?source=rss-fe04a352a811------2)
 - [How to Integrate Stripe with a React Application](https://javascript.plainenglish.io/how-to-integrate-stripe-with-a-react-application-27c5a858b7f7?source=rss-fe04a352a811------2)
 - [React Query vs SWR](https://javascript.plainenglish.io/react-query-vs-swr-36743c14ba7e?source=rss-fe04a352a811------2)
 - [How to Reduce HTTP Calls From 15 Lines to 2 Lines Using React SWR](https://javascript.plainenglish.io/how-to-reduce-http-calls-from-15-lines-to-2-lines-using-react-swr-50f59f086ed2?source=rss-fe04a352a811------2)
-- [How to Design a Clean Database](https://levelup.gitconnected.com/how-to-design-a-clean-database-2c7158114e2f?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
