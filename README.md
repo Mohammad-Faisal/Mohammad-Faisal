@@ -29,11 +29,11 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Show Loader on Page Changes in Next.js](https://javascript.plainenglish.io/how-to-show-loader-on-page-changes-in-next-js-102edd0ec98d?source=rss-fe04a352a811------2)
+- [6 Free Websites to Test the Performance of Your Web Application](https://javascript.plainenglish.io/6-free-websites-to-test-the-performance-of-your-web-application-e649f92cf978?source=rss-fe04a352a811------2)
 - [Understand Static Site Generation with  Next.js](https://javascript.plainenglish.io/understand-static-site-generation-with-next-js-22e86efda38c?source=rss-fe04a352a811------2)
 - [How to Handle Different Environments in a Next.js Application](https://javascript.plainenglish.io/how-to-handle-different-environments-in-a-next-js-application-8dc4aef6ad9b?source=rss-fe04a352a811------2)
 - [How to Integrate Stripe with a React Application](https://javascript.plainenglish.io/how-to-integrate-stripe-with-a-react-application-27c5a858b7f7?source=rss-fe04a352a811------2)
-- [React Query vs SWR](https://javascript.plainenglish.io/react-query-vs-swr-36743c14ba7e?source=rss-fe04a352a811------2)
-- [How to Reduce HTTP Calls From 15 Lines to 2 Lines Using React SWR](https://javascript.plainenglish.io/how-to-reduce-http-calls-from-15-lines-to-2-lines-using-react-swr-50f59f086ed2?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
