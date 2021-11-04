@@ -37,7 +37,7 @@ I am a fullstack software engineer from bangladesh
 <!-- BLOG-POST-LIST:END -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=vue-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme-dark">
 
 
 <!--
