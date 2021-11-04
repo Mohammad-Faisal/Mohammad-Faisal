@@ -36,7 +36,8 @@ I am a fullstack software engineer from bangladesh
 - [Understand Static Site Generation with  Next.js](https://javascript.plainenglish.io/understand-static-site-generation-with-next-js-22e86efda38c?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
-	
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=vue-dark">
 
 
 <!--
