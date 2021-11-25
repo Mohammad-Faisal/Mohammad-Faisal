@@ -29,11 +29,11 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Scrape a Real Website with Node.js](https://javascript.plainenglish.io/how-to-scrape-a-real-website-with-node-js-5ca9402bd954?source=rss-fe04a352a811------2)
+- [Implement a Search Feature with React That Works Offline](https://javascript.plainenglish.io/implement-a-search-feature-with-react-that-works-offline-ea7cbc158907?source=rss-fe04a352a811------2)
 - [DRY Principle in Your AWS SAM Application with Middlewares](https://levelup.gitconnected.com/dry-principle-in-your-aws-sam-application-with-middlewares-b013fc294727?source=rss-fe04a352a811------2)
 - [How to Effectively Use the SEO Features of a Next.js Application](https://javascript.plainenglish.io/how-to-effectively-use-the-seo-features-of-a-next-js-application-c40ead44ad33?source=rss-fe04a352a811------2)
 - [Factors Behind a Great SEO Optimized Web Application](https://levelup.gitconnected.com/factors-behind-a-great-seo-optimized-web-application-155ad5453e32?source=rss-fe04a352a811------2)
-- [How to Show Loader on Page Changes in Next.js](https://javascript.plainenglish.io/how-to-show-loader-on-page-changes-in-next-js-102edd0ec98d?source=rss-fe04a352a811------2)
-- [6 Free Websites to Test the Performance of Your Web Application](https://javascript.plainenglish.io/6-free-websites-to-test-the-performance-of-your-web-application-e649f92cf978?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
