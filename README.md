@@ -29,11 +29,11 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pre-Production Checklist for Next.js Applications](https://javascript.plainenglish.io/pre-production-checklist-for-next-js-applications-893035e350f5?source=rss-fe04a352a811------2)
 - [Add Google Analytics to a Next.js Application](https://javascript.plainenglish.io/add-google-analytics-to-a-next-js-application-7cd97eb962e1?source=rss-fe04a352a811------2)
 - [How to Scrape a Real Website with Node.js](https://javascript.plainenglish.io/how-to-scrape-a-real-website-with-node-js-5ca9402bd954?source=rss-fe04a352a811------2)
 - [Implement a Search Feature with React That Works Offline](https://javascript.plainenglish.io/implement-a-search-feature-with-react-that-works-offline-ea7cbc158907?source=rss-fe04a352a811------2)
 - [DRY Principle in Your AWS SAM Application with Middlewares](https://levelup.gitconnected.com/dry-principle-in-your-aws-sam-application-with-middlewares-b013fc294727?source=rss-fe04a352a811------2)
-- [How to Effectively Use the SEO Features of a Next.js Application](https://javascript.plainenglish.io/how-to-effectively-use-the-seo-features-of-a-next-js-application-c40ead44ad33?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
