@@ -29,11 +29,11 @@ I am a fullstack software engineer from bangladesh
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Sitemaps with NextJS](https://enlear.academy/how-to-create-sitemaps-with-nextjs-668da9601a03?source=rss-fe04a352a811------2)
 - [Making DynamoDB Access Easy in NodeJS with ORM](https://levelup.gitconnected.com/making-dynamodb-access-easy-in-nodejs-with-orm-4cc32418f7a?source=rss-fe04a352a811------2)
 - [Pre-Production Checklist for Next.js Applications](https://javascript.plainenglish.io/pre-production-checklist-for-next-js-applications-893035e350f5?source=rss-fe04a352a811------2)
 - [Add Google Analytics to a Next.js Application](https://javascript.plainenglish.io/add-google-analytics-to-a-next-js-application-7cd97eb962e1?source=rss-fe04a352a811------2)
 - [How to Scrape a Real Website with Node.js](https://javascript.plainenglish.io/how-to-scrape-a-real-website-with-node-js-5ca9402bd954?source=rss-fe04a352a811------2)
-- [Implement a Search Feature with React That Works Offline](https://javascript.plainenglish.io/implement-a-search-feature-with-react-that-works-offline-ea7cbc158907?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
