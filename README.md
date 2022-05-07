@@ -1,9 +1,10 @@
 ### Hello World 👋
 I am a fullstack software engineer from bangladesh.
+<br>
 Learn more about me on my website
 https://www.mohammadfaisal.dev/
 
-- 🔭 Working on multiple frontend and backend project using react and nodejs
+- 🔭 Working with ReactJS, NodeJS and AWS mostly
 - 🌱 Learning design patterns in depth
 <br>
 
