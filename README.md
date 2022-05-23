@@ -4,8 +4,9 @@ I am a fullstack software engineer from bangladesh.
 Learn more about me on my website
 https://www.mohammadfaisal.dev/
 
-- 🔭 Working with ReactJS, NodeJS and AWS mostly
-- 🌱 Learning design patterns in depth
+- Working as a full-stack software engineer 
+- Working with ReactJS, NodeJS and AWS
+- 
 <br>
 
 ## Connect with me
