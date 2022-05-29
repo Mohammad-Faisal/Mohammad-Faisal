@@ -11,11 +11,6 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 
 ![](https://komarev.com/ghpvc/?username=mohammad-faisal)
 
-[![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Mohammad-Faisal/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
-
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
@@ -48,6 +43,8 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 
 ## Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=dark">
+
+[![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
 
 
 <!--
