@@ -8,6 +8,8 @@ https://www.mohammadfaisal.dev/
 - Working with ReactJS, NodeJS and AWS
 <br>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohammad-Faisal.Mohammad-Faisal&left_color=green&right_color=red)
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
