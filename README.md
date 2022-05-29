@@ -1,14 +1,20 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh.
-<br>
-Learn more about me on my website
-https://www.mohammadfaisal.dev/
+I am a fullstack software engineer working with ReactJS, NodeJS and AWS Serverless Technologies.
 
-- Working as a full-stack software engineer 
-- Working with ReactJS, NodeJS and AWS
+<br>
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohammad-Faisal.Mohammad-Faisal&left_color=black&right_color=red)
+I am also a technical writer. Love to share what I learn.
+
+<br>
+<br>
+
+Personal Website: https://www.mohammadfaisal.dev/
+Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
+
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohammad-Faisal.Mohammad-Faisal&left_color=black&right_color=blue)
 
 ## Connect with me
 
