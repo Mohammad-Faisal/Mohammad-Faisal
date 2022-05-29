@@ -8,7 +8,7 @@ https://www.mohammadfaisal.dev/
 - Working with ReactJS, NodeJS and AWS
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohammad-Faisal.Mohammad-Faisal&left_color=cyan&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohammad-Faisal.Mohammad-Faisal&left_color=#f0fdf4&right_color=red)
 
 ## Connect with me
 
