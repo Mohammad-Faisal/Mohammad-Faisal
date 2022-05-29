@@ -8,6 +8,7 @@ Personal Website: https://www.mohammadfaisal.dev/
 Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 
 <br>
+![](https://gitwar.herokuapp.com/badge?username=Mohammad-Faisal)
 ![](https://komarev.com/ghpvc/?username=mohammad-faisal)
 [![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
 
