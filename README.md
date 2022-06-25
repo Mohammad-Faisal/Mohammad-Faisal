@@ -42,10 +42,9 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 <!-- BLOG-POST-LIST:END -->
 
 ## Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=dark">
-
 [![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=dark">
 
 <!--
 **Mohammad-Faisal/Mohammad-Faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
