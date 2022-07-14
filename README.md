@@ -41,9 +41,10 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 - [Why NVM is Tremendously Helpful for Web Developers](https://javascript.plainenglish.io/why-nvm-is-tremendously-helpful-for-web-developers-5d55935018d8?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Statistics
+## Stackoverflow Statistics
 [![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
 
+## Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=dark">
 
 <!--
