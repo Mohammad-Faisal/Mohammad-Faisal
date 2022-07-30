@@ -10,7 +10,8 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mohammad-faisal)
-
+![](https://img.shields.io/youtube/channel/views/UCEGGMAzm02aNVqNeXVUeH1Q?style=social)
+[![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
@@ -40,8 +41,6 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 - [Build an Audio and Video Recorder in React](https://javascript.plainenglish.io/build-an-audio-and-video-recorder-in-react-a452ab6c1ce6?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Stackoverflow Statistics
-[![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
 
 ## Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=dark">
