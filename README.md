@@ -45,6 +45,23 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 ## Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=dark">
 
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/mohammadfaisal?theme=light&font=Karma&ext=contest" />
+
+
+<img height="280em" src="https://raw.githubusercontent.com/torpedo/cf-stats/main/output/light_card.svg" />
+</p>
+
+## Latest Medium Posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/1" alt="Latest medium article"> </a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/2" alt="Latest medium article"> </a>
+
+
 <!--
 **Mohammad-Faisal/Mohammad-Faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
