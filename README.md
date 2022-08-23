@@ -49,10 +49,6 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 ## Latest Medium Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0" alt="Latest medium article">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/1" alt="Latest medium article"> </a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/2" alt="Latest medium article"> </a>
-
 <b>&#128200; Leetcode Stats</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/mohammadfaisal?theme=light&font=Karma&ext=contest" />
