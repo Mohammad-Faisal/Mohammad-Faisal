@@ -49,10 +49,7 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 ## Latest Medium Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0" alt="Latest medium article">
 
-<b>&#128200; Leetcode Stats</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/mohammadfaisal?theme=light&font=Karma&ext=contest" />
-</p>
+
 
 <!--
 **Mohammad-Faisal/Mohammad-Faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,4 +72,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<b>&#128200; Leetcode Stats</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/mohammadfaisal?theme=light&font=Karma&ext=contest" />
+</p>
 -->
