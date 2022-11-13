@@ -10,7 +10,7 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mohammad-faisal)
-![](https://img.shields.io/youtube/channel/views/UCEGGMAzm02aNVqNeXVUeH1Q?style=social)
+![Youtube Views](https://img.shields.io/youtube/channel/views/UCEGGMAzm02aNVqNeXVUeH1Q?style=social)
 [![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
 ## Connect with me
 
