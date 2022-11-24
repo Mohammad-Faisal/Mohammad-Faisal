@@ -11,7 +11,6 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 
 ![](https://komarev.com/ghpvc/?username=mohammad-faisal)
 ![Youtube Views](https://img.shields.io/youtube/channel/views/UCEGGMAzm02aNVqNeXVUeH1Q?style=social)
-[![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal) 
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
