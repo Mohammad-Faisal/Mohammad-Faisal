@@ -41,10 +41,10 @@ Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 <!-- BLOG-POST-LIST:END -->
 
 
-## Github Statistics
+<!-- ## Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faisal&theme=dark">
 
-
+ -->
 ## Latest Medium Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0" alt="Latest medium article">
 
