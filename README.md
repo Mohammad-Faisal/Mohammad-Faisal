@@ -3,7 +3,7 @@ I am a fullstack software engineer working with ReactJS, NodeJS and AWS Serverle
 
 I am also a technical writer. Love to share what I learn.
 
-Personal Website: https://www.mohammadfaisal.dev/
+Personal Website: https://www.mdfaisal.com/
 
 Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
 
