@@ -8,11 +8,12 @@ Personal Website: https://www.mdfaisal.com/
 
 [<img align="left" alt="linked-in" style="width: 50px; height: 50px" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" />](https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q)
 
+![Youtube Views](https://img.shields.io/youtube/channel/views/UCEGGMAzm02aNVqNeXVUeH1Q?style=social)
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mohammad-faisal)
-![Youtube Views](https://img.shields.io/youtube/channel/views/UCEGGMAzm02aNVqNeXVUeH1Q?style=social)
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
