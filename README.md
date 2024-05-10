@@ -5,9 +5,9 @@ I am also a technical writer. Love to share what I learn.
 
 Personal Website: https://www.mdfaisal.com/
 
-https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif
 
-https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
+[<img align="left" alt="linked-in" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" />](https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q)
+
 
 <br>
 
